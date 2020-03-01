@@ -63,11 +63,11 @@
       "command-line-flag": "--@id"
     }
   ],
-  "name": "PixCla-PSPNet-Tuned-GlaS",
+  "name": "PixCla-UNet-Tuned-GlaS",
   "description": "A workflow using UNet tuned on a validation set",
   "schema-version": "cytomine-0.1",
   "container-image": {
-    "image": "neubiaswg5/w_pixcla-pspnet-tuned-glas",
+    "image": "neubiaswg5/w_pixcla-unet-tuned-glas",
     "type": "singularity"
   }
 }
